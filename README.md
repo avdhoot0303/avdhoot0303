@@ -1,6 +1,16 @@
 ### Hi there 👋
 #### I'm Avdhoot Patil, I was born a few years ago and since then I'm a learner. I'm an ML and AI enthusiast and trying to keep my environment happy and appealing. My favourite part of  neural networks is natural language processing and I thrive to learn it and look forward to work on real life problems and implement projects.
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+ ##### Follow me <!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+
+<!-- links to social media icons -->
 * 🔭 I’m currently working on Malware detection using CNN as my final year project
 * 🌱 I’m currently learning Neural netowrks and deep learning  and also Natural language processing
 * 👯 I’m looking to collaborate on any ML or neural networks or deep learning projects.
