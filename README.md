@@ -1,6 +1,8 @@
-### Hi there 👋
+# Avdhoot Patil
+
+### Hi there 
 ##### I'm Avdhoot Patil, I was born a few years ago and since then I'm a learner. 
-##### I'm an ML and AI enthusiast and trying to keep my environment happy and appealing. My favourite part of  neural networks is natural language processing and I thrive to learn it and look forward to work on real life problems and implement projects.
+###### I'm an ML and AI enthusiast and trying to keep my environment happy and appealing. My favourite part of  neural networks is natural language processing and I thrive to learn it and look forward to work on real life problems and implement projects.
 
 
 
