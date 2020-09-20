@@ -1,12 +1,12 @@
 # Avdhoot Patil
 
 ### Hello World
-##### I'm Avdhoot Patil, I was born a few years ago and since then I'm a learner. 
+##### I'm Avdhoot Patil, I was born a few years ago and since then I'm a learner. <img src = "https://magiccopy.xyz/assets/images/hadder.gif" align = "right" height =200 width = 350>
 ###### I'm an ML and AI enthusiast and trying to keep my environment happy and appealing. 
 ###### My favourite part of  neural networks is natural language processing and I thrive to learn it and look forward to work on real life problems and implement projects.
 
 
-<img src = "https://magiccopy.xyz/assets/images/hadder.gif" align = "right" height =200 width = 350>
+
 
 
 * 🔭 I’m currently working on Malware detection using CNN as my final year project
