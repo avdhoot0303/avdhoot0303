@@ -7,7 +7,7 @@
 
 
 
-
+<br>
 
 * 🔭 I’m currently working on Malware detection using CNN as my final year project
 * 🌱 I’m currently learning Neural netowrks and deep learning  and also Natural language processing
@@ -17,7 +17,7 @@
 * ⚡ Fun fact: Taking a sceneray break will solve your errors and bugs.
 
 <br>
-[![Avdhoot's git status](https://github-readme-stats.vercel.app/api?username=avdhoot0303)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
