@@ -19,7 +19,7 @@
 <br>
 
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avdhoot0303)](https://github.com/anuraghazra/github-readme-stats)
 
 **YOU CAN ALWAYS CONNECT WITH ME ON MY SOCIAL MEDIA:**<br>
 <a href="https://www.instagram.com/awwdudee_/"><img src ="https://media1.giphy.com/media/SwyH7oWi2vhkOjCwiJ/200.gif" width=40 height=40></a>
