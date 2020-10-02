@@ -2,7 +2,7 @@
 
 ### Hello World
 ##### I'm Avdhoot Patil, I was born a few years ago and since then I'm a learner. <img src = "https://static.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" align = "right" height =220 width = 300>
-###### I am a python programmer also I'm an ML and AI enthusiast and trying to keep my environment happy,dark mode and appealing. 
+###### I am a python programmer also a Machine Learning and Deep Learning enthusiast who is trying to keep environment happy,dark mode and appealing. 
 ###### My favourite part of  neural networks is natural language processing and I thrive to learn it and look forward to work on real life problems and implement projects.
 
 
@@ -14,7 +14,6 @@
 * 👯 I’m looking to collaborate on any open source projects or ML or neural networks or deep learning projects or any python based development.
 * 💬 Ask me about python,Neural networks, deep learning models. 
 * 📫 How to reach me: Mail me- avdhootpatil245@gmail.com 
-* ⚡ Fun fact: Taking a sceneray break will solve your errors and bugs.
 
 <br>
 
