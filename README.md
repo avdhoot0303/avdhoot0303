@@ -1,7 +1,7 @@
 # Avdhoot Patil
 
 ### Hello World
-##### I'm Avdhoot Patil, I was born a few years ago and since then I'm a learner. <img src = "https://static.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" align = "right" height =220 width = 300>
+##### I'm Avdhoot Patil, I was born a few years ago and since then I'm a learner. <img src = "https://i.stack.imgur.com/i6NG3.gif" align = "right" height =220 width = 300>
 ###### I am a python programmer also a Machine Learning and Deep Learning enthusiast who is trying to keep environment happy,dark mode and appealing. 
 ###### My favourite part of  neural networks is natural language processing and I thrive to learn it and look forward to work on real life problems and implement projects.
 
