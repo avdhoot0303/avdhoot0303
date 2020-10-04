@@ -18,14 +18,13 @@
 <br>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avdhoot0303)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avdhoot0303&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **YOU CAN ALWAYS CONNECT WITH ME ON MY SOCIAL MEDIA:**<br>
 <a href="https://www.instagram.com/awwdudee_/"><img src ="https://media1.giphy.com/media/SwyH7oWi2vhkOjCwiJ/200.gif" width=40 height=40></a>
 <a href="https://github.com/avdhoot0303"><img src = "https://octodex.github.com/images/daftpunktocat-guy.gif" width =40 height =40 ></a>
 <a href = "https://www.linkedin.com/in/avdhoot-patil-419689148/"><img src = "https://i1.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?fit=500%2C500&ssl=1=" width=40 height=40 ></a>
 <a href = "https://twitter.com/imightsayjokes"><img src = "https://media0.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width = 40 height = 40 ></a>
-<br> Mail me at: avdhootpatil245@gmail.com
 <!--
 **avdhoot0303/avdhoot0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
