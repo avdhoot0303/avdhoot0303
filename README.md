@@ -6,13 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **Google Cloud Platform**
+- 🔭 I’m currently working on **Data Science Skills and Developing a personal model serving library**
 
 - 💬 Ask me about **Google cloud platform, Serverless workflows, DevOps strategies, architecture patterns**
 
 - 📫 How to reach me **avdhootpatil245@gmail.com**
 
-- ⚡ Fun fact **I work better with crunched deadlines**
+- ⚡ Fun fact **I work better with crunched deadlines and good music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
